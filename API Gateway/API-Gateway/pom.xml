@@ -3,12 +3,12 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>com.infosys.infytel.zuul</groupId>
+	<groupId>com.zuul</groupId>
 	<artifactId>ZuulServer</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>infytel-zuul</name>
+	<name>zuul</name>
 	<description>API Gateway server for Infytel</description>
 
 	<parent>
